@@ -1,0 +1,26 @@
+.navbar li {
+  display: inline;
+}
+
+#google-apps {
+  background-image:url(//ssl.gstatic.com/gb/images/i1_1967ca6a.png);
+}
+
+#logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10.5%;
+}
+
+#search-bar {
+  display: block;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.right-nav {
+  float: right;
+  padding-left: 0.5em;
+}
